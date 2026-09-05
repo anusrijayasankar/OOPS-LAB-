@@ -1,0 +1,31 @@
+Enter Name of Employee:
+bhavani
+Enter ID of Employee:
+456
+Enter Address of Employee:
+vadalur
+Enter Mail ID of Employee:
+bhavanisri1234@gmail.com
+Enter Mobile Number of Employee:
+63808756360
+Enter the Basic Pay:
+10000000
+
+Enter the Designation:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Exit
+2
+
+***** PAYSLIP *****
+Designation: Assistant Professor
+Employee Name: bhavani
+Employee ID: 456
+Address: vadalur
+Mail ID: bhavanisri1234@gmail.com
+Mobile Number: 63808756360
+Basic Pay = 1.0E7
+Gross Salary = 2.07E7
+Net Salary = 1.949E7

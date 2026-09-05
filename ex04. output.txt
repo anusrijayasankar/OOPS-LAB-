@@ -1,0 +1,5 @@
+11
+111
+Area of Rectangle is 1221.0
+Area of Triangle is 610.5
+Area of Circle is 380.2857
