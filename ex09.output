@@ -1,22 +1,11 @@
-import java.util.Scanner;  import java.io.File;
-class FileDemo 
-{ 
-public static void main(String[] args) 
-{ 
-Scanner input=new Scanner(System.in);  
-String s=input.nextLine(); 
-File f1=new File(s); 
-System.out.println("File Name:"+f1.getName()); 
-System.out.println("Path:"+f1.getPath());  
-System.out.println("Abs Path:"+f1.getAbsolutePath()); 
-System.out.println("Parent:"+f1.getParent()); 
-System.out.println("This file is:"+(f1.exists()?"Exists":"Does not exists")); 
-System.out.println("Is file:"+f1.isFile()); 
-System.out.println("Is Directory:"+f1.isDirectory());  
-System.out.println("Is Readable:"+f1.canRead());  
-System.out.println("IS Writable:"+f1.canWrite());  
-System.out.println("Is Absolute:"+f1.isAbsolute());  
-System.out.println("File Last Modified:"+f1.lastModified()); 
-System.out.println("File Size:"+f1.length()+"bytes");  
-System.out.println("Is Hidden:"+f1.isHidden()); } 
-} 
+D:\raghu\Java Programs>java ArrayListExample 
+Currently the array list obj1 has following elements:[Ajeet, Harry, Chaitanya, Steve, Anuj] 
+ArrayList obj1 after add All:[Ajeet, Harry, Chaitanya, Steve, Anuj, Babu, Kamal, Alice, Bob, Raj] 
+ArrayList obj1 after add element at the given index:[Rahul, Justin, Ajeet, Harry, Chaitanya,  Steve, Anuj, Babu, Kamal, Alice, Bob, Raj] Enter the Search element:  
+Babu 
+ArrayList obj1 contains the string Babu :true 
+Current array list of obj1 after removing element is:[Rahul, Justin, Ajeet, Steve, Anuj, Babu,   Kamal, Alice, Bob, Raj] 
+Current array list of obj1 after removing element through index is:[Rahul, Ajeet, Steve, Anuj,  Babu, Kamal, Alice, Bob, Raj] 
+Enter the letter to display all the string start with given letter: 
+R 
+ArrayList obj1 contains all the string start with given 
