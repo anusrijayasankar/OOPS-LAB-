@@ -1,0 +1,20 @@
+SMART STUDENT MANAGEMENT SYSTEM
+--------------------------------
+Enter Student ID: 101
+Enter Student Name: Anusri
+Enter Mark 1: 85
+Enter Mark 2: 92
+Enter Mark 3: 88
+
+================================
+ STUDENT PERFORMANCE REPORT
+================================
+Student ID : 101
+Name       : Anusri
+Mark 1     : 85
+Mark 2     : 92
+Mark 3     : 88
+Total      : 265
+Average    : 88.33
+Grade      : A
+================================
