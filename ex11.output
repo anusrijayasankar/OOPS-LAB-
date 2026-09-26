@@ -1,0 +1,32 @@
+OUTPUT: 
+Compilation Command: 
+G:\IFET\prgs>set CLASSPATH="C:\Program Files\Java\mysql-connector-j-8.4.0\mysqlconnector-java-8.4.0.jar;C:\Program Files\Java\openjfx-22.0.1_windows-x64_bin-sdk\javafxsdk-22.0.1\lib\*" 
+ 
+ 
+G:\IFET\prgs>javac --module-path "C:\Program Files\Java\openjfx-22.0.1_windows-x64_ bin-sdk\javafx-sdk-22.0.1\lib" --add-modules javafx.controls,javafx.fxml 
+StudentManagementApp.java 
+ 
+ 
+Run Command: 
+G:\IFET\prgs>java --module-path "C:\Program Files\Java\openjfx-22.0.1_windows-x64_binsdk\javafx-sdk-22.0.1\lib;C:\Program Files\Java\mysql-connector-j-8.4.0\mysql-connector-j8.4.0.jar" --add-modules javafx.controls,javafx.fxml -cp ".;C:\Program Files\Java\mysqlconnector-j-8.4.0\mysql-connector-j-8.4.0.jar" StudentManagementA pp 
+   
+ 
+ 
+ 
+            
+ Fig. 1 Student Management Interface 
+                                
+Fig. 2 Data Insertion 
+                             
+Fig. 3: Student data in database mysql 
+                          
+Fig. 4: Display All the data from Database 
+                           
+ 
+Fig. 6: Displaying data after updation 
+                         
+Fig. 7: Deletion  
+ 
+                         
+Fig. 8: Displaying information after deletion 
+ 
